@@ -16,5 +16,3 @@
 | `q5_linear_queue.c` | Question 5 | Array-based queue `enqueue` and `dequeue` operations |
 | `q6_sparse_matrix.c` | Question 6 | Sparse matrix representation using 3-tuple arrays |
 | `q7_deque.c` | Question 7 | Double-ended queue (`insertFront`, `insertRear`, `deleteFront`, `deleteRear`) |
-
-## Compilation & Execution
