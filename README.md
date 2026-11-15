@@ -18,10 +18,3 @@
 | `q7_deque.c` | Question 7 | Double-ended queue (`insertFront`, `insertRear`, `deleteFront`, `deleteRear`) |
 
 ## Compilation & Execution
-
-Compile any file using `gcc`:
-
-```bash
-gcc q1_circular_queue.c -o q1_circular_queue
-./q1_circular_queue
-```
